@@ -1,9 +1,11 @@
 body {
     background-color: powderblue;
-  }
-  h1 {
-    color: blue;
-  }
-  p {
-    color: red;
-  }
+}
+
+h1 {
+    font-size: 160%;
+}
+
+p {
+    font-size: 100%;
+}
