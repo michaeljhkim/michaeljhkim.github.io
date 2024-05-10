@@ -1,11 +1,13 @@
 body {
-    background-color: powderblue;
+    background-color: white;
 }
 
 h1 {
+    color: black;
     font-size: 160%;
 }
 
 p {
+    color: black;
     font-size: 100%;
 }
