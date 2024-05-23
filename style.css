@@ -39,8 +39,8 @@ hr {
 /*NAME AT TOP OF WEBSITE*/ 
 h1 {
     color: black;
-    font-weight: 500;
-    font-size: 200%;
+    font-weight: 400;
+    font-size: 300%;
 }
 
 
@@ -55,6 +55,17 @@ h2 {
 
 /*SUBHEADING 2 (Specifics)*/ 
 h3 {
+    color: black;
+    font-weight: 400;
+    font-size: 120%;
+    margin-top: -3px;
+    margin-bottom: -3px;
+    /* Adjust as needed */
+}
+
+
+/*TECHNICAL SKILLS*/ 
+h4 {
     color: black;
     font-weight: 400;
     font-size: 120%;
